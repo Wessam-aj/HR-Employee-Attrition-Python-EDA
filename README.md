@@ -1,6 +1,6 @@
 # 🧑‍💼 HR Analytics: Decoding Employee Attrition using Python
 
-**[🔗 Click Here to View the Python Code (Jupyter Notebook) on GitHub]()**
+**[🔗 Click Here to View the Python Code (Jupyter Notebook) on GitHub](HR_Attrition_EDA.ipynb)**
 
 
 ## 🎯 Project Objective
